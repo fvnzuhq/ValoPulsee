@@ -69,7 +69,7 @@
 
 ## 📥 Installation
 
-1. **[⬇ Télécharge la dernière version](https://github.com/VOTRE_PSEUDO/valopulse/releases/latest)**
+1. **[⬇ Télécharge la dernière version](https://github.com/fvnzuhq/valopulse/releases/latest)**
 2. Lance `ValoPulse-Setup.exe`
 3. Si Windows affiche un avertissement (normal pour une app indépendante) :
    **Informations complémentaires → Exécuter quand même**
