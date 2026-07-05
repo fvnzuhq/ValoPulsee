@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Valo Pulse" width="140"/>
+<img src="logo.png" alt="Valo Pulse" width="140"/>
 
 # VALO PULSE
 
@@ -27,7 +27,7 @@
 <div align="center">
 
 <!-- Remplace par une vraie capture de ton dashboard -->
-<img src="assets/screenshot_dashboard.png" alt="Dashboard Valo Pulse" width="800"/>
+<img src="screenshot_dashboard.png" alt="Dashboard Valo Pulse" width="800"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 | Dashboard | Coach IA | Optimisation PC |
 |:---:|:---:|:---:|
-| <img src="assets/screenshot_dashboard.png" width="260"/> | <img src="assets/screenshot_coach.png" width="260"/> | <img src="assets/screenshot_pc.png" width="260"/> |
+| <img src="screenshot_dashboard.png" width="260"/> | <img src="screenshot_coach.png" width="260"/> | <img src="screenshot_pc.png" width="260"/> |
 
 </div>
 
