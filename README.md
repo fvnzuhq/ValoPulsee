@@ -25,8 +25,7 @@
 
 <div align="center">
 
-<!-- Remplace par une vraie capture de ton dashboard -->
-<img src="screenshot_dashboard.png" alt="Dashboard Valo Pulse" width="800"/>
+<img src="https://valopulse.tech/assets/dashboard-mockup-hjaALwjr.jpg" alt="Dashboard Valo Pulse" width="800"/>
 
 </div>
 
@@ -47,22 +46,10 @@
 - Diagnostic chiffré de tes points forts et faibles
 - Conseils concrets et personnalisés — *pas de blabla générique*
 
-### ⚡ Optimisation & Setup — *Premium*
-- **Recommandations personnalisées** : settings Valorant, crosshair, sensibilité, résolution
-- Guides d'optimisation FPS adaptés à ta config
-- Comparaison avec les setups des **joueurs pros**
-
----
-
-## 🖼️ Aperçu
-
-<div align="center">
-
-| Dashboard | Coach IA | Optimisation & Setup |
-|:---:|:---:|:---:|
-| <img src="screenshot_dashboard.png" width="260"/> | <img src="screenshot_coach.png" width="260"/> | <img src="screenshot_setup.png" width="260"/> |
-
-</div>
+### ⚡ Optimisation PC — *Premium*
+- **Diagnostic performance** de ta machine
+- Détection des applications gourmandes
+- Conseils personnalisés pour **gagner des FPS** et baisser ton ping
 
 ---
 
@@ -79,12 +66,11 @@
 
 ## 💎 Premium
 
-Le tracker est **100 % gratuit**. Le Premium débloque le Coach IA et le module Optimisation & Setup, et fait tourner le serveur.
+Le tracker est **100 % gratuit**. Le Premium débloque le Coach IA et l'Optimisation PC, et fait tourner le serveur.
 
 | Formule | Prix | Inclus |
 |:---|:---:|:---|
-| 🔹 **Semaine** | 3,99 € | 1 module au choix (Coach IA *ou* Optimisation & Setup) |
-| 💎 **Mois** | 12,99 € | Coach IA **+** Optimisation & Setup |
+| 💎 **Mois** | 12,99 € | Coach IA **+** Optimisation PC |
 
 👉 Activation via le **[Discord](https://discord.gg/vpulse)**.
 
