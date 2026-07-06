@@ -4,13 +4,12 @@
 
 # VALO PULSE
 
-### Le tracker Valorant nouvelle génération — stats détaillées, Coach IA & Optimisation PC
+### Le tracker Valorant nouvelle génération — stats détaillées & Coach IA, directement dans ton navigateur
 
-[![Site](https://img.shields.io/badge/🌐_Site-valopulse.tech-ff4655?style=for-the-badge)](https://valopulse.tech)
+[![Site](https://img.shields.io/badge/🌐_Accéder_au_site-valopulse.tech-ff4655?style=for-the-badge)](https://valopulse.tech)
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vpulse)
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-Windows-3de8c9?style=for-the-badge)](https://github.com/VOTRE_PSEUDO/valopulse/releases/latest)
 
-![Platform](https://img.shields.io/badge/Windows-10%2F11-0b0e14?style=flat-square&logo=windows)
+![Platform](https://img.shields.io/badge/100%25_Web-aucune_installation-0b0e14?style=flat-square&logo=googlechrome&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2.5.0-3de8c9?style=flat-square)
 ![Made by](https://img.shields.io/badge/créé_par-fvnz-ff4655?style=flat-square)
 
@@ -20,9 +19,9 @@
 
 ## 🎯 C'est quoi Valo Pulse ?
 
-**Valo Pulse** analyse ton compte Valorant en un clic et te donne tout ce qu'il faut pour progresser : des **statistiques détaillées** colorées selon ton niveau, un **Coach IA** qui lit tes vrais matchs, et un module d'**Optimisation PC** pour tenir tes FPS.
+**Valo Pulse** analyse ton compte Valorant en un clic, directement depuis ton navigateur, et te donne tout ce qu'il faut pour progresser : des **statistiques détaillées** colorées selon ton niveau et un **Coach IA** qui lit tes vrais matchs.
 
-> Connexion **Discord**, tracker **gratuit**, interface sombre gaming. Le tout dans une app Windows légère.
+> Connexion **Discord**, tracker **gratuit**, interface sombre gaming. **Rien à télécharger, rien à installer** — tout se passe sur [valopulse.tech](https://valopulse.tech).
 
 <div align="center">
 
@@ -48,10 +47,10 @@
 - Diagnostic chiffré de tes points forts et faibles
 - Conseils concrets et personnalisés — *pas de blabla générique*
 
-### ⚡ Optimisation PC — *Premium*
-- Jauges **temps réel** : CPU, RAM, GPU, ping
-- Mode Jeu, plan Performances ultimes, nettoyage en 1 clic
-- Fermeture des applications gourmandes
+### ⚡ Optimisation & Setup — *Premium*
+- **Recommandations personnalisées** : settings Valorant, crosshair, sensibilité, résolution
+- Guides d'optimisation FPS adaptés à ta config
+- Comparaison avec les setups des **joueurs pros**
 
 ---
 
@@ -59,34 +58,33 @@
 
 <div align="center">
 
-| Dashboard | Coach IA | Optimisation PC |
+| Dashboard | Coach IA | Optimisation & Setup |
 |:---:|:---:|:---:|
-| <img src="screenshot_dashboard.png" width="260"/> | <img src="screenshot_coach.png" width="260"/> | <img src="screenshot_pc.png" width="260"/> |
+| <img src="screenshot_dashboard.png" width="260"/> | <img src="screenshot_coach.png" width="260"/> | <img src="screenshot_setup.png" width="260"/> |
 
 </div>
 
 ---
 
-## 📥 Installation
+## 🚀 Comment commencer ?
 
-1. **[⬇ Télécharge la dernière version](https://github.com/fvnzuhq/valopulse/releases/latest)**
-2. Lance `ValoPulse-Setup.exe`
-3. Si Windows affiche un avertissement (normal pour une app indépendante) :
-   **Informations complémentaires → Exécuter quand même**
-4. Connecte-toi avec **Discord** et analyse ton profil ! 🎯
+1. **Rends-toi sur [valopulse.tech](https://valopulse.tech)**
+2. Connecte-toi avec **Discord**
+3. Entre ton **Riot ID** (pseudo#TAG)
+4. Analyse ton profil ! 🎯
 
-> **Config requise :** Windows 10 / 11
+> **Compatible :** Chrome, Firefox, Edge, Safari — PC, mobile & tablette. Aucun téléchargement requis.
 
 ---
 
 ## 💎 Premium
 
-Le tracker est **100 % gratuit**. Le Premium débloque le Coach IA et l'Optimisation PC, et fait tourner le serveur.
+Le tracker est **100 % gratuit**. Le Premium débloque le Coach IA et le module Optimisation & Setup, et fait tourner le serveur.
 
 | Formule | Prix | Inclus |
 |:---|:---:|:---|
-| 🔹 **Semaine** | 3,99 € | 1 module au choix (Coach IA *ou* Opti PC) |
-| 💎 **Mois** | 12,99 € | Coach IA **+** Opti PC |
+| 🔹 **Semaine** | 3,99 € | 1 module au choix (Coach IA *ou* Optimisation & Setup) |
+| 💎 **Mois** | 12,99 € | Coach IA **+** Optimisation & Setup |
 
 👉 Activation via le **[Discord](https://discord.gg/vpulse)**.
 
@@ -99,12 +97,6 @@ Le tracker est **100 % gratuit**. Le Premium débloque le Coach IA et l'Optimisa
 ### 🌐 [valopulse.tech](https://valopulse.tech) &nbsp;•&nbsp; 💬 [discord.gg/vpulse](https://discord.gg/vpulse)
 
 </div>
-
----
-
-## ⚠️ Antivirus
-
-Certains antivirus peuvent afficher un **faux positif** : c'est courant pour les applications Windows créées avec Python. **Valo Pulse ne contient aucun code malveillant.** En cas de doute, rejoins le [Discord](https://discord.gg/vpulse) — la communauté et le support sont là.
 
 ---
 
